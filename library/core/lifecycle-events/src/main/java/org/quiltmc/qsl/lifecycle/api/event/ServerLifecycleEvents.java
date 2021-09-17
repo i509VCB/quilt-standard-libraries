@@ -144,7 +144,7 @@ public final class ServerLifecycleEvents {
 	@FunctionalInterface
 	public interface Stopping {
 		/**
-		 * Called when a Minecraft server has finished it's last tick and is shutting down.
+		 * Called when a Minecraft server has finished its last tick and is shutting down.
 		 *
 		 * @param server the server which is shutting down
 		 */
